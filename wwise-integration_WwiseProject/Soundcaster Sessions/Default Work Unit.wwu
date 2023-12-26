@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B09A7195-550B-40E3-917D-2CB331BD915F}" SchemaVersion="103">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{B09A7195-550B-40E3-917D-2CB331BD915F}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="New Soundcaster Session" ID="{3CE8882A-FE33-4F0D-8BAC-1334E23AE88F}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Rolling" ID="{8DF1938A-BA43-425B-9806-33CCE555CFF7}" WorkUnitID="{514E3B3E-F71A-45C6-906D-2A4EB7F2F2E1}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Music_level" ID="{8F3A7114-065B-41DA-AF64-E91C79936E16}" WorkUnitID="{514E3B3E-F71A-45C6-906D-2A4EB7F2F2E1}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Music_MainMenu" ID="{B5352B25-D5C2-4CF2-ADE1-4F35FA828756}" WorkUnitID="{514E3B3E-F71A-45C6-906D-2A4EB7F2F2E1}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="RollingVolume" ID="{9309A512-B996-40CB-BAA9-7F69C044E3CB}"/>
+							<Value>5.3</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Grass" ID="{C19EF119-790F-4957-B9F6-7E4A4EB41BD9}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

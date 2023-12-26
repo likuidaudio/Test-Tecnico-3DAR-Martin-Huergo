@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1395e8ab298ea95449ec0db39f12e383, type: 3}
+  m_Name: 4BFA2295-D11F-4B78-9B78-DCF1D52D3A3E
+  m_EditorClassIdentifier: 
+  objectName: Play_Goal
+  id: 83993043
+  guid: 4BFA2295-D11F-4B78-9B78-DCF1D52D3A3E
