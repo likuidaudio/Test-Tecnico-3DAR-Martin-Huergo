@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A098E1EC-F056-46C0-8CA4-B055C291391C}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{A098E1EC-F056-46C0-8CA4-B055C291391C}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{B76782D1-5B97-4DC5-8AA3-378D36EEBF25}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Hover" ID="{C4E5D054-4D8F-4040-B0A6-9415631BDC50}" WorkUnitID="{3359A576-2F98-4B61-93EF-3F07527BD7C9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Music_Level" ID="{2C2265EE-F312-4065-9795-CA3E05EC4D82}" WorkUnitID="{3359A576-2F98-4B61-93EF-3F07527BD7C9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Jump" ID="{3F6A8D14-7D2F-4272-A41F-920E7F574D4C}" WorkUnitID="{3359A576-2F98-4B61-93EF-3F07527BD7C9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Rolling" ID="{4A7CF3FA-E70B-4307-90D2-030780D17AC8}" WorkUnitID="{3359A576-2F98-4B61-93EF-3F07527BD7C9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Boost" ID="{DA3A3002-AD5C-4338-AC13-8A0C25AEE45C}" WorkUnitID="{3359A576-2F98-4B61-93EF-3F07527BD7C9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Click" ID="{9909AA2C-F975-4409-B5BE-0F1A6E8F77FA}" WorkUnitID="{3359A576-2F98-4B61-93EF-3F07527BD7C9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Death_Fall" ID="{574B91EB-CE42-444E-A028-A9B339ED3BC0}" WorkUnitID="{3359A576-2F98-4B61-93EF-3F07527BD7C9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Water" ID="{4934E102-8099-492B-9DCA-F9A63579017D}" WorkUnitID="{3359A576-2F98-4B61-93EF-3F07527BD7C9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Music_MainMenu" ID="{E2E960B4-897A-4943-85F9-BE3CEE9D9BC0}" WorkUnitID="{3359A576-2F98-4B61-93EF-3F07527BD7C9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Death_water" ID="{7954A539-59E1-49CA-B075-34A35A6F8A8A}" WorkUnitID="{3359A576-2F98-4B61-93EF-3F07527BD7C9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Forest_Ambience" ID="{99D981A5-455C-4AE9-9475-9122659BFEDB}" WorkUnitID="{3359A576-2F98-4B61-93EF-3F07527BD7C9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Goal" ID="{4BFA2295-D11F-4B78-9B78-DCF1D52D3A3E}" WorkUnitID="{3359A576-2F98-4B61-93EF-3F07527BD7C9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Wind" ID="{98C5F514-C911-4C0C-8F83-370FA794E217}" WorkUnitID="{3359A576-2F98-4B61-93EF-3F07527BD7C9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Attack" ID="{F9BBA70D-4D7E-4E43-9571-6CDFEDE86727}" WorkUnitID="{3359A576-2F98-4B61-93EF-3F07527BD7C9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Land" ID="{05085C11-623A-4EE3-97DE-2C877DD8AA13}" WorkUnitID="{3359A576-2F98-4B61-93EF-3F07527BD7C9}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

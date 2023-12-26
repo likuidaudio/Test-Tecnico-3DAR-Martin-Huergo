@@ -1,0 +1,63 @@
+Event	ID	Name			Wwise Object Path	Notes
+	43731276	Play_Music_Level			\Default Work Unit\Play_Music_Level	
+	83993043	Play_Goal			\Default Work Unit\Play_Goal	
+	311910498	Play_Click			\Default Work Unit\Play_Click	
+	441572235	Play_Water			\Default Work Unit\Play_Water	
+	467703972	Play_Death_water			\Default Work Unit\Play_Death_water	
+	811708576	Play_Forest_Ambience			\Default Work Unit\Play_Forest_Ambience	
+	1020223172	Play_Wind			\Default Work Unit\Play_Wind	
+	1519321238	Play_Attack			\Default Work Unit\Play_Attack	
+	1566693136	Play_Music_MainMenu			\Default Work Unit\Play_Music_MainMenu	
+	1834004125	Play_Rolling			\Default Work Unit\Play_Rolling	
+	1962302600	Play_Hover			\Default Work Unit\Play_Hover	
+	2131920492	Play_Death_Fall			\Default Work Unit\Play_Death_Fall	
+	3689126666	Play_Jump			\Default Work Unit\Play_Jump	
+	3783768423	Play_Boost			\Default Work Unit\Play_Boost	
+	4285282925	Play_Land			\Default Work Unit\Play_Land	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3865314626	Material			\Default Work Unit\Material	
+
+Switch	ID	Name	Switch Group			Notes
+	803837735	Sand	Material			
+	841620460	Concrete	Material			
+	2058049674	Wood	Material			
+	4248645337	Grass	Material			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2840348078	RollingVolume			\Default Work Unit\RollingVolume	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	33865782	Roll_Wood	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\Roll_Wood_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Rolling\Roll_Wood		667328
+	59978641	CC-CK Body Fall Wood Loose 02 - Crop #3	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\CC-CK Body Fall Wood Loose 02 - Crop #3_67BE0D3F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Land\Wood\CC-CK Body Fall Wood Loose 02 - Crop #3		190872
+	106017451	Basic pop_4	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\Basic pop_4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\Hover\Basic pop_4		96064
+	115272193	Goal	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\Crowd Applause Cheering - Crop #1_E19A8BCF.wem		\Actor-Mixer Hierarchy\Default Work Unit\Interactables\Goal		1275420
+	136234840	Basic pop_5	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\Basic pop_5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\Hover\Basic pop_5		96064
+	149375148	click_03-- - Crop #1	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\click_03-- - Crop #1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\Click\click_03-- - Crop #1		27712
+	181570361	Player_Jump3_3	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\Player_Jump3_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Jump\Player_Jump3_3		135424
+	254856488	Death_water	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\Impact_Water_Splash_Big_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Death_water		357440
+	296187810	click_02-- - Crop #1	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\click_02-- - Crop #1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\Click\click_02-- - Crop #1		14502
+	299543140	Forest_Ambience	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\Forest_Scrub_Forest_Ambience_With_Birds_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\Forest_Ambience		38997912
+	319100573	WispMovementDashA - Crop #1	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\WispMovementDashA - Crop #1_29EDFBFF.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Attack\WispMovementDashA - Crop #1		201168
+	327254509	CC-CK Body Fall Wood Loose 02 - Crop #2	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\CC-CK Body Fall Wood Loose 02 - Crop #2_11E8BE17.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Land\Wood\CC-CK Body Fall Wood Loose 02 - Crop #2		221044
+	351310642	Boost	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\Laser_Swipe_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Interactables\Boost		187232
+	377922297	CC-DS Body Fall Generic Soft 01 - Crop #5	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\CC-DS Body Fall Generic Soft 01 - Crop #5_5E0B5790.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Land\Concrete\CC-DS Body Fall Generic Soft 01 - Crop #5		69148
+	422616593	CC-CK Body Fall Sand Medium - Crop #2	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\CC-CK Body Fall Sand Medium - Crop #2_17EE061F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Land\Sand\CC-CK Body Fall Sand Medium - Crop #2		256724
+	426193155	Wind	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\WEATHER-WIND-MOUNTAIN_5ACD168F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\Wind		10556492
+	450727465	Water	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\waterGurgleLOOP1_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\Water		4887396
+	462842083	CC-CK Body Fall Wood Loose 02 - Crop #1	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\CC-CK Body Fall Wood Loose 02 - Crop #1_D51B2828.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Land\Wood\CC-CK Body Fall Wood Loose 02 - Crop #1		171160
+	505309821	CC-CK Body Fall Sand Medium - Crop #3	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\CC-CK Body Fall Sand Medium - Crop #3_82B250C0.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Land\Sand\CC-CK Body Fall Sand Medium - Crop #3		282844
+	511301856	Basic pop_3	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\Basic pop_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\Hover\Basic pop_3		96064
+	534515852	CC-CK Body Fall Sand Medium - Crop #4	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\CC-CK Body Fall Sand Medium - Crop #4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Land\Sand\CC-CK Body Fall Sand Medium - Crop #4		299448
+	564982328	click_04--	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\click_04--_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\Click\click_04--		67284
+	606558652	CC-DS Body Fall Generic Soft 01 - Crop #3	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\CC-DS Body Fall Generic Soft 01 - Crop #3_AF59FC43.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Land\Concrete\CC-DS Body Fall Generic Soft 01 - Crop #3		156132
+	638925295	Roll_Sand	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\Roll_Sand_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Rolling\Roll_Sand		667328
+	825204698	Player_Jump3_1	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\Player_Jump3_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Jump\Player_Jump3_1		120256
+	832379589	Music_level	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\ES_Happy-Go-Lucky - Victor Lundberg_ED2EFD72.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\Music_level		27233584
+	855463787	Roll_Concrete	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\Roll_Concrete_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Rolling\Roll_Concrete		667328
+	873972015	Player_Jump3_2	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\Player_Jump3_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Jump\Player_Jump3_2		145404
+	911518058	Roll_Grass	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\Roll_Grass_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Rolling\Roll_Grass		667328
+	979312216	Death_Fall	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\Whiste_Down_SuperFast_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Death_Fall		75840
+	982133495	Music_MainMenu	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\ES_June 21 - Victor Lundberg_07F626B3.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\Music_MainMenu		50259672
+	991482427	CC-DS Body Fall Generic Soft 01 - Crop #4	E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Windows\SFX\CC-DS Body Fall Generic Soft 01 - Crop #4_B0BF5487.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Land\Concrete\CC-DS Body Fall Generic Soft 01 - Crop #4		154548
+
