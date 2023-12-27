@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\Unity Projects\Test Tecnica 3Dar\wwise-integration\wwise-integration_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3578119927">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX" Hash="2361629310">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1519321238" Name="Play_Attack" ObjectPath="\Events\Default Work Unit\Play_Attack" DurationType="OneShot" DurationMin="0.95865" DurationMax="1.355736">
+					<IncludedMemoryFiles>
+						<File Id="319100573" Language="SFX">
+							<ShortName>WispMovementDashA - Crop #1.wav</ShortName>
+							<Path>SFX\WispMovementDashA - Crop #1_29EDFBFF.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3783768423" Name="Play_Boost" ObjectPath="\Events\Default Work Unit\Play_Boost" DurationType="OneShot" DurationMin="0.819734" DurationMax="1.159279">
+					<IncludedMemoryFiles>
+						<File Id="351310642" Language="SFX">
+							<ShortName>Laser_Swipe.wav</ShortName>
+							<Path>SFX\Laser_Swipe_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="311910498" Name="Play_Click" ObjectPath="\Events\Default Work Unit\Play_Click" DurationType="OneShot" DurationMin="0.121089" DurationMax="0.416346">
+					<IncludedMemoryFiles>
+						<File Id="149375148" Language="SFX">
+							<ShortName>click_03-- - Crop #1.wav</ShortName>
+							<Path>SFX\click_03-- - Crop #1_10C4C929.wem</Path>
+						</File>
+						<File Id="296187810" Language="SFX">
+							<ShortName>click_02-- - Crop #1.wav</ShortName>
+							<Path>SFX\click_02-- - Crop #1_10C4C929.wem</Path>
+						</File>
+						<File Id="564982328" Language="SFX">
+							<ShortName>click_04--.wav</ShortName>
+							<Path>SFX\click_04--_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2131920492" Name="Play_Death_Fall" ObjectPath="\Events\Default Work Unit\Play_Death_Fall" DurationType="OneShot" DurationMin="0.269565" DurationMax="0.269565">
+					<IncludedMemoryFiles>
+						<File Id="979312216" Language="SFX">
+							<ShortName>Whiste_Down_SuperFast.wav</ShortName>
+							<Path>SFX\Whiste_Down_SuperFast_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="467703972" Name="Play_Death_water" ObjectPath="\Events\Default Work Unit\Play_Death_water" DurationType="OneShot" DurationMin="1.271328" DurationMax="1.271328">
+					<IncludedMemoryFiles>
+						<File Id="254856488" Language="SFX">
+							<ShortName>Impact_Water_Splash_Big_03.wav</ShortName>
+							<Path>SFX\Impact_Water_Splash_Big_03_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="811708576" Name="Play_Forest_Ambience" ObjectPath="\Events\Default Work Unit\Play_Forest_Ambience" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="299543140" Language="SFX">
+							<ShortName>Forest_Scrub_Forest_Ambience_With_Birds.wav</ShortName>
+							<Path>SFX\Forest_Scrub_Forest_Ambience_With_Birds_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="83993043" Name="Play_Goal" ObjectPath="\Events\Default Work Unit\Play_Goal" DurationType="OneShot" DurationMin="7.229905" DurationMax="7.229905">
+					<IncludedMemoryFiles>
+						<File Id="115272193" Language="SFX">
+							<ShortName>Crowd Applause Cheering - Crop #1.wav</ShortName>
+							<Path>SFX\Crowd Applause Cheering - Crop #1_E19A8BCF.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1962302600" Name="Play_Hover" ObjectPath="\Events\Default Work Unit\Play_Hover" DurationType="OneShot" DurationMin="0.420448" DurationMax="0.594604">
+					<IncludedMemoryFiles>
+						<File Id="106017451" Language="SFX">
+							<ShortName>Basic pop_4.wav</ShortName>
+							<Path>SFX\Basic pop_4_10C4C929.wem</Path>
+						</File>
+						<File Id="136234840" Language="SFX">
+							<ShortName>Basic pop_5.wav</ShortName>
+							<Path>SFX\Basic pop_5_10C4C929.wem</Path>
+						</File>
+						<File Id="511301856" Language="SFX">
+							<ShortName>Basic pop_3.wav</ShortName>
+							<Path>SFX\Basic pop_3_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3689126666" Name="Play_Jump" ObjectPath="\Events\Default Work Unit\Play_Jump" DurationType="OneShot" DurationMin="0.526401" DurationMax="0.900205">
+					<IncludedMemoryFiles>
+						<File Id="181570361" Language="SFX">
+							<ShortName>Player_Jump3_3.wav</ShortName>
+							<Path>SFX\Player_Jump3_3_10C4C929.wem</Path>
+						</File>
+						<File Id="825204698" Language="SFX">
+							<ShortName>Player_Jump3_1.wav</ShortName>
+							<Path>SFX\Player_Jump3_1_10C4C929.wem</Path>
+						</File>
+						<File Id="873972015" Language="SFX">
+							<ShortName>Player_Jump3_2.wav</ShortName>
+							<Path>SFX\Player_Jump3_2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4285282925" Name="Play_Land" ObjectPath="\Events\Default Work Unit\Play_Land" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="59978641" Language="SFX">
+							<ShortName>CC-CK Body Fall Wood Loose 02 - Crop #3.wav</ShortName>
+							<Path>SFX\CC-CK Body Fall Wood Loose 02 - Crop #3_67BE0D3F.wem</Path>
+						</File>
+						<File Id="327254509" Language="SFX">
+							<ShortName>CC-CK Body Fall Wood Loose 02 - Crop #2.wav</ShortName>
+							<Path>SFX\CC-CK Body Fall Wood Loose 02 - Crop #2_11E8BE17.wem</Path>
+						</File>
+						<File Id="377922297" Language="SFX">
+							<ShortName>CC-DS Body Fall Generic Soft 01 - Crop #5.wav</ShortName>
+							<Path>SFX\CC-DS Body Fall Generic Soft 01 - Crop #5_5E0B5790.wem</Path>
+						</File>
+						<File Id="422616593" Language="SFX">
+							<ShortName>CC-CK Body Fall Sand Medium - Crop #2.wav</ShortName>
+							<Path>SFX\CC-CK Body Fall Sand Medium - Crop #2_17EE061F.wem</Path>
+						</File>
+						<File Id="462842083" Language="SFX">
+							<ShortName>CC-CK Body Fall Wood Loose 02 - Crop #1.wav</ShortName>
+							<Path>SFX\CC-CK Body Fall Wood Loose 02 - Crop #1_D51B2828.wem</Path>
+						</File>
+						<File Id="505309821" Language="SFX">
+							<ShortName>CC-CK Body Fall Sand Medium - Crop #3.wav</ShortName>
+							<Path>SFX\CC-CK Body Fall Sand Medium - Crop #3_82B250C0.wem</Path>
+						</File>
+						<File Id="534515852" Language="SFX">
+							<ShortName>CC-CK Body Fall Sand Medium - Crop #4.wav</ShortName>
+							<Path>SFX\CC-CK Body Fall Sand Medium - Crop #4_10C4C929.wem</Path>
+						</File>
+						<File Id="606558652" Language="SFX">
+							<ShortName>CC-DS Body Fall Generic Soft 01 - Crop #3.wav</ShortName>
+							<Path>SFX\CC-DS Body Fall Generic Soft 01 - Crop #3_AF59FC43.wem</Path>
+						</File>
+						<File Id="991482427" Language="SFX">
+							<ShortName>CC-DS Body Fall Generic Soft 01 - Crop #4.wav</ShortName>
+							<Path>SFX\CC-DS Body Fall Generic Soft 01 - Crop #4_B0BF5487.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{AF451C56-91C7-4214-9226-13B1F6647629}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{78BE974D-D401-4469-9275-16E502725F28}">
+							<Media>
+								<File Id="59978641"/>
+								<File Id="327254509"/>
+								<File Id="462842083"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{AF451C56-91C7-4214-9226-13B1F6647629}">
+							<Media>
+								<File Id="422616593"/>
+								<File Id="505309821"/>
+								<File Id="534515852"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{555ADB8C-42BF-40E8-8DAA-1DB23AE098D1}">
+							<Media>
+								<File Id="377922297"/>
+								<File Id="606558652"/>
+								<File Id="991482427"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="43731276" Name="Play_Music_Level" ObjectPath="\Events\Default Work Unit\Play_Music_Level" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="832379589" Language="SFX">
+							<ShortName>ES_Happy-Go-Lucky - Victor Lundberg.wav</ShortName>
+							<Path>SFX\ES_Happy-Go-Lucky - Victor Lundberg_ED2EFD72.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1566693136" Name="Play_Music_MainMenu" ObjectPath="\Events\Default Work Unit\Play_Music_MainMenu" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="982133495" Language="SFX">
+							<ShortName>ES_June 21 - Victor Lundberg.wav</ShortName>
+							<Path>SFX\ES_June 21 - Victor Lundberg_07F626B3.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1834004125" Name="Play_Rolling" ObjectPath="\Events\Default Work Unit\Play_Rolling" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="33865782" Language="SFX">
+							<ShortName>Roll_Wood.wav</ShortName>
+							<Path>SFX\Roll_Wood_D79FB2B7.wem</Path>
+						</File>
+						<File Id="638925295" Language="SFX">
+							<ShortName>Roll_Sand.wav</ShortName>
+							<Path>SFX\Roll_Sand_D79FB2B7.wem</Path>
+						</File>
+						<File Id="855463787" Language="SFX">
+							<ShortName>Roll_Concrete.wav</ShortName>
+							<Path>SFX\Roll_Concrete_D79FB2B7.wem</Path>
+						</File>
+						<File Id="911518058" Language="SFX">
+							<ShortName>Roll_Grass.wav</ShortName>
+							<Path>SFX\Roll_Grass_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{AF451C56-91C7-4214-9226-13B1F6647629}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{C19EF119-790F-4957-B9F6-7E4A4EB41BD9}">
+							<Media>
+								<File Id="911518058"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{78BE974D-D401-4469-9275-16E502725F28}">
+							<Media>
+								<File Id="33865782"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{AF451C56-91C7-4214-9226-13B1F6647629}">
+							<Media>
+								<File Id="638925295"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{555ADB8C-42BF-40E8-8DAA-1DB23AE098D1}">
+							<Media>
+								<File Id="855463787"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="441572235" Name="Play_Water" ObjectPath="\Events\Default Work Unit\Play_Water" MaxAttenuation="50." DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="450727465" Language="SFX">
+							<ShortName>waterGurgleLOOP1.wav</ShortName>
+							<Path>SFX\waterGurgleLOOP1_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1020223172" Name="Play_Wind" ObjectPath="\Events\Default Work Unit\Play_Wind" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="426193155" Language="SFX">
+							<ShortName>WEATHER-WIND-MOUNTAIN.wav</ShortName>
+							<Path>SFX\WEATHER-WIND-MOUNTAIN_5ACD168F.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="2840348078" Name="RollingVolume" ObjectPath="\Game Parameters\Default Work Unit\RollingVolume"/>
+			</GameParameters>
+			<SwitchGroups>
+				<SwitchGroup Id="3865314626" Name="Material" ObjectPath="\Switches\Default Work Unit\Material" GUID="{F7AB7869-B536-466F-A3F8-4956CA167479}">
+					<Switches>
+						<Switch Id="4248645337" Name="Grass" ObjectPath="\Switches\Default Work Unit\Material\Grass" GUID="{C19EF119-790F-4957-B9F6-7E4A4EB41BD9}"/>
+						<Switch Id="803837735" Name="Sand" ObjectPath="\Switches\Default Work Unit\Material\Sand" GUID="{AF451C56-91C7-4214-9226-13B1F6647629}"/>
+						<Switch Id="841620460" Name="Concrete" ObjectPath="\Switches\Default Work Unit\Material\Concrete" GUID="{555ADB8C-42BF-40E8-8DAA-1DB23AE098D1}"/>
+						<Switch Id="2058049674" Name="Wood" ObjectPath="\Switches\Default Work Unit\Material\Wood" GUID="{78BE974D-D401-4469-9275-16E502725F28}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
